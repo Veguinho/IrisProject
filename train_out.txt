@@ -1,0 +1,285 @@
+directory_list ['images_train/0003', 'images_train/0004', 'images_train/0005', 'images_train/0002', 'images_train/0007', 'images_train/0000', 'images_train/0009', 'images_train/0008', 'images_train/0001', 'images_train/0006']
+name 0003
+path_to_image images_train/0003/0003_002.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_003.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_001.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_000.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_004.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_010.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_011.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_005.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_007.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_006.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_008.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0003/0003_009.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+invalid_image 0003
+name 0004
+path_to_image images_train/0004/0004_009.bmp
+path_to_image images_train/0004/0004_008.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0004/0004_000.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0004/0004_001.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0004/0004_003.bmp
+path_to_image images_train/0004/0004_002.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0004/0004_006.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0004/0004_007.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0004/0004_011.bmp
+path_to_image images_train/0004/0004_005.bmp
+path_to_image images_train/0004/0004_004.bmp
+path_to_image images_train/0004/0004_010.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+invalid_image 0004
+name 0005
+path_to_image images_train/0005/0005_009.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_008.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_005.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_011.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_010.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_004.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_006.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_007.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_003.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_002.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_000.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0005/0005_001.bmp
+invalid_image 0005
+name 0002
+path_to_image images_train/0002/0002_007.bmp
+path_to_image images_train/0002/0002_006.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0002/0002_010.bmp
+rectangle expression1
+path_to_image images_train/0002/0002_004.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0002/0002_005.bmp
+path_to_image images_train/0002/0002_011.bmp
+path_to_image images_train/0002/0002_001.bmp
+path_to_image images_train/0002/0002_000.bmp
+path_to_image images_train/0002/0002_002.bmp
+path_to_image images_train/0002/0002_003.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0002/0002_008.bmp
+rectangle expression1
+path_to_image images_train/0002/0002_009.bmp
+invalid_image 0002
+name 0007
+path_to_image images_train/0007/0007_009.bmp
+path_to_image images_train/0007/0007_008.bmp
+rectangle expression1
+path_to_image images_train/0007/0007_003.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0007/0007_002.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0007/0007_000.bmp
+path_to_image images_train/0007/0007_001.bmp
+path_to_image images_train/0007/0007_011.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0007/0007_005.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0007/0007_004.bmp
+locate expression 1 local variable 'north_mark' referenced before assignment
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0007/0007_010.bmp
+locate expression 1 local variable 'north_mark' referenced before assignment
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0007/0007_006.bmp
+rectangle expression1
+path_to_image images_train/0007/0007_007.bmp
+rectangle expression1
+invalid_image 0007
+name 0000
+path_to_image images_train/0000/0000_001.bmp
+path_to_image images_train/0000/0000_000.bmp
+path_to_image images_train/0000/0000_002.bmp
+path_to_image images_train/0000/0000_003.bmp
+path_to_image images_train/0000/0000_007.bmp
+rectangle expression1
+path_to_image images_train/0000/0000_006.bmp
+path_to_image images_train/0000/0000_004.bmp
+path_to_image images_train/0000/0000_010.bmp
+path_to_image images_train/0000/0000_011.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0000/0000_005.bmp
+path_to_image images_train/0000/0000_008.bmp
+rectangle expression1
+path_to_image images_train/0000/0000_009.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+invalid_image 0000
+name 0009
+path_to_image images_train/0009/0009_002.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0009/0009_003.bmp
+rectangle expression1
+path_to_image images_train/0009/0009_001.bmp
+path_to_image images_train/0009/0009_000.bmp
+rectangle expression1
+path_to_image images_train/0009/0009_010.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0009/0009_004.bmp
+path_to_image images_train/0009/0009_005.bmp
+path_to_image images_train/0009/0009_011.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0009/0009_007.bmp
+path_to_image images_train/0009/0009_006.bmp
+path_to_image images_train/0009/0009_008.bmp
+path_to_image images_train/0009/0009_009.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+invalid_image 0009
+name 0008
+path_to_image images_train/0008/0008_007.bmp
+path_to_image images_train/0008/0008_006.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0008/0008_004.bmp
+path_to_image images_train/0008/0008_010.bmp
+path_to_image images_train/0008/0008_011.bmp
+path_to_image images_train/0008/0008_005.bmp
+rectangle expression1
+path_to_image images_train/0008/0008_001.bmp
+rectangle expression1
+path_to_image images_train/0008/0008_000.bmp
+rectangle expression1
+path_to_image images_train/0008/0008_002.bmp
+rectangle expression1
+path_to_image images_train/0008/0008_003.bmp
+path_to_image images_train/0008/0008_008.bmp
+path_to_image images_train/0008/0008_009.bmp
+rectangle expression1
+invalid_image 0008
+name 0001
+path_to_image images_train/0001/0001_010.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_004.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_005.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_011.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_007.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_006.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_002.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_003.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_001.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_000.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_008.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0001/0001_009.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+invalid_image 0001
+name 0006
+path_to_image images_train/0006/0006_009.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0006/0006_008.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0006/0006_006.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0006/0006_007.bmp
+path_to_image images_train/0006/0006_005.bmp
+path_to_image images_train/0006/0006_011.bmp
+path_to_image images_train/0006/0006_010.bmp
+path_to_image images_train/0006/0006_004.bmp
+path_to_image images_train/0006/0006_000.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0006/0006_001.bmp
+locate expression 1 index 640 is out of bounds for axis 1 with size 640
+rectangle expression2 not enough values to unpack (expected 2, got 1)
+path_to_image images_train/0006/0006_003.bmp
+path_to_image images_train/0006/0006_002.bmp
+rectangle expression1
+invalid_image 0006
+train_db_model_path 0 0
+[INFO] serializing encodings...
+OK
